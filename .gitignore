@@ -1,0 +1,4 @@
+Crawler/*.json
+Crawler/data
+Crawler/__pycache__
+Bot/__pycache__
