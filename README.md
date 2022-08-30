@@ -29,3 +29,7 @@
 ![](docs/bot2.png)
 ![](docs/bot3.png)
 ![](docs/bot4.png)
+
+## 感謝
+- 感謝 @hsuanchia 及 @jiazheng0609 兩位學長對於實驗提出建議及想法
+- 感謝 [zake7749/Gossiping-Chinese-Corpus](https://github.com/zake7749/Gossiping-Chinese-Corpus) 在 Kaggle 提供有趣的資料集和開源程式碼
